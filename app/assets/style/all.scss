@@ -1,0 +1,19 @@
+// scss變數檔案
+@import 'variable';
+//css reset
+@import 'reset';
+// mixin
+@import 'mixin';
+//全站設定
+@import 'base';
+// 字體大小
+@import 'text-size';
+// 間距
+@import 'spacing';
+//main
+@import 'main';
+//layout css
+@import 'layout/navbar';
+@import 'layout/footer';
+//pages css
+@import 'pages/index';
